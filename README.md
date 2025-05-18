@@ -1,4 +1,6 @@
-## Hi there 👋
+## Overview
+
+This is a simple HTML & CSS site made as part of a school assignment.
 
 <!--
 **NowAidan/NowAidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
